@@ -1,0 +1,86 @@
+*{
+    margin: O;
+    padding: 0;
+
+
+}
+body{
+    background: url(ground.jpg);
+    background-size: cover;
+    opacity: 0.9;
+    background-color: rgba(0, 0, 0, 0.781);
+    text-align: center;
+}
+h2{
+    margin: 15px 40%;
+    background-color: burlywood;
+    width: 27%;
+    text-decoration:  underline;
+    text-decoration-color: rebeccapurple;
+    font-size: 20px;
+    font-family: cursive;
+    font-style: italic;
+    font-weight:bold ;
+    color:rgb(8, 104, 59,)
+    
+    
+}
+div{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+}
+.label{
+    color: rgb(6, 66, 6);
+    font-family: cursive;
+    background-color: burlywood;
+    font-weight: bold;
+    
+}
+.input{
+    font-size: 19px;
+    background-color: rgb(195, 248, 248);
+    font-family: 'Times New Roman', Times, serif;
+}
+.head{
+    font-size: 26px;
+    font-style: oblique;
+    color: green;
+    background-color: chocolate;
+    width: 32%;
+    margin: 0 38% ;
+}
+.lab{
+    color: rgb(121, 9, 9);
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: coral;
+    
+}
+.inp{
+    background-color: rgb(42, 223, 18);
+    font-size: 17px;
+    
+}
+h3{
+    color: blue;
+    background-color: darkgrey;
+    width: 40% ;
+    margin: 0 32%;
+    margin-top: 10px;
+}
+.bel{
+    background-color: burlywood;
+    color: brown;
+    font-size: 18px;
+    font-family: monospace;
+    font-weight: bolder;
+}
+/*  
+.btn{
+    background-color: darkgray;
+    color: burlywood;
+    font-size: 18px;
+    font-weight: 800;
+}
+*/
